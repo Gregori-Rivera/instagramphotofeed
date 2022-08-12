@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background: white;
+    height: 25px;
+}
+
+.body-page {
+    background: whitesmoke;
+}
+
+.body-post{
+    height:500px;
+    width:400px;
+    background: white;
+    margin:auto;
+    margin-top: 50px;
+}
+.header-post {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.primero{
+    display: flex;
+    align-items:center;
+}
+
+.myImg {
+    width: 500;
+    height: 300;
+}
+
+.footer {
+    background: white;
+}
